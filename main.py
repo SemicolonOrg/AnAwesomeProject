@@ -3,3 +3,7 @@ def monday():
 
 def tuesday():
     pass
+
+def wednesday():
+    pass
+
