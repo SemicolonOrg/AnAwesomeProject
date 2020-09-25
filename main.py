@@ -4,6 +4,6 @@ def monday():
 def tuesday():
     pass
 
-def wednesssday():
+def wednesday():
     pass
 
